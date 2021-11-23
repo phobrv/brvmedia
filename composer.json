@@ -28,6 +28,21 @@
             "Phobrv\\Brvmedia\\Tests\\": "tests"
         }
     },
+    "scripts":
+    {
+        
+        "cache": [
+            "@php artisan optimize",
+            "@php artisan config:cache",
+            "@php artisan route:cache"
+        ],
+        "git": [
+            "git pull",
+            "git add .",
+            "git commit -m 'update' ",
+            "git push"
+        ]
+    },
     "extra": {
         "laravel": {
             "providers": [

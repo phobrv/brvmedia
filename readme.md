@@ -1,6 +1,6 @@
 # Brvmedia
 
-Sử dụng HLS để convert và mã hoá video
+Use HLS to convert and encode video
 
 ## Installation
 
@@ -19,7 +19,7 @@ https://github.com/Nicklas373/FFMPEG_Compiler_Script
 #### Follow the instructions below
 https://linuxconfig.org/install-ffmpeg-on-ubuntu-18-04-bionic-beaver-linux
 
-#### x265 re-install 
+#### x265 re-install
 https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu 
 
 ```bash
@@ -38,12 +38,13 @@ make install
 ```bash
 source ~/.profile
 ```
-### Link 
+### Link
 
+```
 https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
 https://kipalog.com/posts/Chong-download-file-video-tren-web-co-ban-bang-HLS--ket-hop-voi-Laravel
 https://linuxconfig.org/install-ffmpeg-on-ubuntu-18-04-bionic-beaver-linux
 https://github.com/Nicklas373/FFMPEG_Compiler_Script
 https://github.com/protonemedia/laravel-ffmpeg 
-
+```
 
