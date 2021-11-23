@@ -10,16 +10,12 @@ Via Composer
 $ composer require phobrv/brvmedia
 ```
 
-## Package FFMPEG_Compiler_Script
+# Install FFmpeg
 
-https://github.com/Nicklas373/FFMPEG_Compiler_Script
-
-### Install FFmpeg
-
-#### Follow the instructions below
+##Follow the instructions below
 https://linuxconfig.org/install-ffmpeg-on-ubuntu-18-04-bionic-beaver-linux
 
-#### x265 re-install
+## x265 re-install
 https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu 
 
 ```bash
@@ -33,12 +29,15 @@ PATH="$HOME/bin:$PATH" make && \
 make install
 ```
 
-#### Now re-login or run the following command for your current shell session to recognize the new ffmpeg location:
+## Now re-login or run the following command for your current shell session to recognize the new ffmpeg location:
 
 ```bash
 source ~/.profile
 ```
-### Link
+## MainPackage
+
+https://github.com/Nicklas373/FFMPEG_Compiler_Script
+## Link
 
 ```
 https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
