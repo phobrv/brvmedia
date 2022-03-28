@@ -12,7 +12,7 @@ $ composer require phobrv/brvmedia
 
 # Install FFmpeg
 
-##Follow the instructions below
+## Follow the instructions below
 https://linuxconfig.org/install-ffmpeg-on-ubuntu-18-04-bionic-beaver-linux
 
 ## x265 re-install
